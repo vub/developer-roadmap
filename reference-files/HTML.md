@@ -4,9 +4,12 @@ https://www.w3.org/TR/2017/CR-html52-20170808/introduction.html
 ##### Important keywords
 Element
 Tag
-Atrribute
+Attribute
  - Empty attribute
  - Attribute with value
+Attribute struct
+ - Name
+ - Value
 IDL Attribute
 Markup language
 Node
@@ -15,3 +18,4 @@ Node
  - Text node
  - Comment node
  - Processing Instruction node
+ DOM
