@@ -1,6 +1,7 @@
 ### HTML
 ##### Refences
-https://www.w3.org/TR/2017/CR*html52*20170808/introduction.html
+https://www.w3.org/TR/2017/CR-html52-20170808/introduction.html
+https://caniuse.com
 ##### Important keywords
 * Element
 * Tag
@@ -12,10 +13,9 @@ https://www.w3.org/TR/2017/CR*html52*20170808/introduction.html
     * Value
 * IDL Attribute
 * Markup language
-* Node
-    * Document node
+* DOM tree
+    * Document type node
     * Element node
     * Text node
     * Comment node
     * Processing Instruction node
-* DOM
